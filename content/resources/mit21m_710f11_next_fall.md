@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3a8d9791-ccb2-6122-e2f9-28aa70a6ad11
 resourcetype: Document
 title: '"Next Fall": A Look at the Production and Characters'
 uid: 8b1c22e3-e944-6333-dd1e-f17b2a4c0ae6
