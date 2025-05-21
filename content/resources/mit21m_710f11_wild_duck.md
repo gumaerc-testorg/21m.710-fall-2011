@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work for an assignment to analyze the script of a
   play: "The Wild Duck" by Henrik Ibsen.'
-file: /ol-ocw-studio-app/courses/21m-710-script-analysis-fall-2011/39ffd1fb506fe04e50453bbf70cea801_MIT21M_710F11_Wild_Duck.pdf
+file: /courses/21m-710-script-analysis-fall-2011/39ffd1fb506fe04e50453bbf70cea801_MIT21M_710F11_Wild_Duck.pdf
 file_size: 562542
 file_type: application/pdf
 learning_resource_types:
