@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work for an assignment to analyze the script of a
   play: "Roundheads and Peakheads" by Bertolt Brecht.'
-file: /ol-ocw-studio-app/courses/21m-710-script-analysis-fall-2011/0a71addcbac1d4d429feb1f806524e75_MIT21M_710F11_Paper_2.pdf
+file: /courses/21m-710-script-analysis-fall-2011/0a71addcbac1d4d429feb1f806524e75_MIT21M_710F11_Paper_2.pdf
 file_size: 661605
 file_type: application/pdf
 learning_resource_types:
